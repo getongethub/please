@@ -6,6 +6,6 @@
 <h1>The big idea of the website</h1>
 <p>Info that will be here</p>
 <a href="https://scratch.mit.edu/projects/270680561/">This leads to the scratch</a>
-    <a href="https://repl.it/@Ilovepancakes/python-interactive-fiction/">what ive been workin on</a>
+<a href="https://repl.it/@Ilovepancakes/python-interactive-fiction/">what ive been workin on</a>
 <html>
     
