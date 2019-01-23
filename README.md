@@ -3,8 +3,8 @@
 <html>
 <head>
 </head>
-<h1>The first Heading</h1>
-<p>My first paragraph</p>
+<h1>The big idea of the website</h1>
+<p>Info that will be here</p>
 <a href="https://scratch.mit.edu/projects/270680561/">This leads to the scratch</a>
 <html>
     
